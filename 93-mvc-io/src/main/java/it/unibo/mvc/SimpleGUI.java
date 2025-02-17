@@ -4,7 +4,7 @@ import javax.swing.JFrame;
 
 /**
  * A very simple program using a graphical interface.
- * 
+ *
  */
 public final class SimpleGUI {
 
