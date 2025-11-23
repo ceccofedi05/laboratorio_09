@@ -1,0 +1,6 @@
+/Users/federicocecchini/Desktop/uni/op/lab/lab09/92-simple-mvc-io/build/classes/java/main/it/unibo/mvc/SimpleGUIWithFileChooser.class
+/Users/federicocecchini/Desktop/uni/op/lab/lab09/92-simple-mvc-io/build/classes/java/main/it/unibo/mvc/SimpleGUI.class
+/Users/federicocecchini/Desktop/uni/op/lab/lab09/92-simple-mvc-io/build/classes/java/main/it/unibo/mvc/SimpleGUI$1.class
+/Users/federicocecchini/Desktop/uni/op/lab/lab09/92-simple-mvc-io/build/classes/java/main/it/unibo/mvc/Controller.class
+/Users/federicocecchini/Desktop/uni/op/lab/lab09/92-simple-mvc-io/build/classes/java/main/it/unibo/mvc/SimpleGUIWithFileChooser$2.class
+/Users/federicocecchini/Desktop/uni/op/lab/lab09/92-simple-mvc-io/build/classes/java/main/it/unibo/mvc/SimpleGUIWithFileChooser$1.class
